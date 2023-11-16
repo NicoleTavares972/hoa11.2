@@ -1,0 +1,5 @@
+[web_servers]
+192.168.56.125
+
+[db_servers]
+nicole@192.168.56.127
